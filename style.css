@@ -1,14 +1,26 @@
 body {
+    background-image: url(pexels-tobias-bjørkli-1587711.jpg);
+    background-size: cover;
+
+
 }
 
 main#container {
 }
 
 h1.titulo {
+    color: rgb(0, 255, 255);
+    font-style: italic;
+
 }
 
 p.frase {
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 p.autor {
+    color: rgb(0, 255, 255);
+    font-style: unset;
+    
 }
